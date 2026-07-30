@@ -4,6 +4,7 @@ A hardcore PS1 hack for Tomb Raider 1.
 - **Permadeath:** You get one life. Dying instantly resets the game.
 - **Permadamage:** Lara's health does not refill between levels. Whatever damage you take carries over.
 - **No Saving:** Save functionality is disabled.
+- **Decimal HP Compass:** The compass displays Lara's current health in decimal format.
 
 
 ### Patching
