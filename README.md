@@ -4,9 +4,8 @@
 ![Target](https://img.shields.io/badge/Target-SLUS__001.52-blue)
 ![Format](https://img.shields.io/badge/Format-PPF%20Patch-orange)
 
-<img width="800" alt="Homuki's Permadeath Tomb Raider 1 Gameplay" src="https://github.com/user-attachments/assets/bf478758-bb39-4a9c-92ed-0fc8a12d2726" />
-
 A hardcore PS1 hack for Tomb Raider 1.
+<img width="800" alt="Homuki's Permadeath Tomb Raider 1 Gameplay" src="https://github.com/user-attachments/assets/bf478758-bb39-4a9c-92ed-0fc8a12d2726" />
 
 ## Features
 
